@@ -1,9 +1,0 @@
-{
-  "arguments":
-  [
-    {
-      "argument": "templateName",
-      "defaultValue": "newTemplate"
-    }
-  ]
-}
